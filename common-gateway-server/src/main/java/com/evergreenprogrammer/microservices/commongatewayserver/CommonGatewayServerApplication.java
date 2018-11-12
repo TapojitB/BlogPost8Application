@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.commongatewayserver;
+package com.evergreenprogrammer.microservices.commongatewayserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

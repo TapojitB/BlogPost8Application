@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.commongatewayserver;
+package com.evergreenprogrammer.microservices.commongatewayserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
